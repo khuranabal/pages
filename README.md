@@ -7,4 +7,4 @@ getting started with spark [container][2] on local using docker
 
 
 [1]:https://khuranabal.github.io/quickstart-container
-[1]:https://khuranabal.github.io/quickstart-spark
+[2]:https://khuranabal.github.io/quickstart-spark
